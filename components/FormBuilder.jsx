@@ -434,3 +434,5 @@ const FormBuilder = ({ initialForm = null }) => {
     </div>
   );
 };
+
+export default FormBuilder;
